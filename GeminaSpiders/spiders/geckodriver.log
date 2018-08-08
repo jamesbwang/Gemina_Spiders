@@ -1,0 +1,694 @@
+1530636372269	geckodriver	INFO	geckodriver 0.21.0
+1530636372269	geckodriver	INFO	Listening on 127.0.0.1:54756
+1530636375300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.rvacW7ea91vM"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VUR Path Registry from nable to read VR Path Registry from C:\Users\WJang\AppData\LCocal\openvr\:\Users\Wopenvrpaths.vrJang\pathAppDa
+ta\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530636378081	Marionette	INFO	Listening on port 54767
+1530636378587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: http://journals.sagepub.com/wro/ey3d~product.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 26: ReferenceError: OAS_RICH is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: https://c.go-mpulse.net/boomerang/2FBN2-NKMGU-EJKY8-ZANKZ-SUJZF, line 11: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://sdfestaticassets-us-west-2.sciencedirectassets.com/shared-assets/10/js/babel-polyfill/6.26.0/babel-polyfill.min.js, line 1: Error: Permission denied to access property "name"
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://www.sciencedirect.com/science/article/pii/S0008418205800377?via%3Dihub, line 114: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=MML_SVG, line 19: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://sdfestaticassets-us-west-2.sciencedirectassets.com/shared-assets/13/js/react-dom/16.3.2/react-dom.production.min.js, line 82: Error: Minified React error #185; visit http://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 1: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://c.go-mpulse.net/boomerang/2FBN2-NKMGU-EJKY8-ZANKZ-SUJZF, line 16: Error: Permission denied to access property "length"
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sdfestaticassets-us-west-2.sciencedirectassets.com/prod/90fe02cd952c9832a9041f3c2afe3267bafebbb5/arp.js, line 50: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001DC9E037000)::ForceLoseContext
+JavaScript warning: https://sdfestaticassets-us-west-2.sciencedirectassets.com/prod/90fe02cd952c9832a9041f3c2afe3267bafebbb5/arp.js, line 50: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001DC9E03B800)::ForceLoseContext
+JavaScript warning: https://sdfestaticassets-us-west-2.sciencedirectassets.com/prod/90fe02cd952c9832a9041f3c2afe3267bafebbb5/arp.js, line 50: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001DC9E0AF800)::ForceLoseContext
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com/content-targeting-v2.js, line 242: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript error: https://8296686.fls.doubleclick.net/activityi;src=8296686;type=sciecema;cat=scien003;ord=3760395300871;gtm=d6c;~oref=http%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F311%2F5767%2F1576?, line 44: SyntaxError: missing ) in parenthetical
+JavaScript error: https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2, line 2: TypeError: a is undefined
+[Parent 27460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 27460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3528, Chrome_C[Child 13348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13348, Chrome_Chil[Parent 27460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11880, Chr[GPU 20848, Chrome_ChildThread] WARN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530637245005	geckodriver	INFO	geckodriver 0.21.0
+1530637245005	geckodriver	INFO	Listening on 127.0.0.1:60604
+1530637248036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.r3Bp1cghmnzg"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530637250774	Marionette	INFO	Listening on port 60614
+1530637250808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 26: ReferenceError: OAS_RICH is not defined
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com/content-targeting-v2.js, line 242: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript error: https://8296686.fls.doubleclick.net/activityi;src=8296686;type=sciecema;cat=scien003;ord=1772076040904;gtm=d6c;~oref=http%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F311%2F5767%2F1576?, line 44: SyntaxError: missing ) in parenthetical
+JavaScript error: https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2, line 2: TypeError: a is undefined
+[Parent 5548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23900, Chrome_ChildThread][Parent 5548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 25712, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r\openvrpaths.vrpath
+ VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530638057891	Marionette	INFO	Listening on port 62178
+1530638058047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 26: ReferenceError: OAS_RICH is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://sdfestaticassets-us-west-2.sciencedirectassets.com/prod/90fe02cd952c9832a9041f3c2afe3267bafebbb5/arp.js, line 50: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016DA5E98000)::ForceLoseContext
+JavaScript warning: https://sdfestaticassets-us-west-2.sciencedirectassets.com/prod/90fe02cd952c9832a9041f3c2afe3267bafebbb5/arp.js, line 50: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016DA6C9E800)::ForceLoseContext
+JavaScript warning: https://sdfestaticassets-us-west-2.sciencedirectassets.com/prod/90fe02cd952c9832a9041f3c2afe3267bafebbb5/arp.js, line 50: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016DA8745000)::ForceLoseContext
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com/content-targeting-v2.js, line 242: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript error: https://8296686.fls.doubleclick.net/activityi;src=8296686;type=sciecema;cat=scien003;ord=7637565408064;gtm=d6c;~oref=http%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F311%2F5767%2F1576?, line 44: SyntaxError: missing ) in parenthetical
+JavaScript error: https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2, line 2: TypeError: a is undefined
+[Parent 27920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26932, Chrome_ChildThr[Parent 27920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17116, Chr[GPU 19948, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530638679084	geckodriver	INFO	geckodriver 0.21.0
+1530638679091	geckodriver	INFO	Listening on 127.0.0.1:63375
+1530638682133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.GRiDQBfr5O7a"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530638684643	Marionette	INFO	Listening on port 63385
+1530638684841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 26: ReferenceError: OAS_RICH is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com/content-targeting-v2.js, line 242: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript error: https://8296686.fls.doubleclick.net/activityi;src=8296686;type=sciecema;cat=scien003;ord=312767154090;gtm=d6c;~oref=http%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F311%2F5767%2F1576?, line 44: SyntaxError: missing ) in parenthetical
+JavaScript error: https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2, line 2: TypeError: a is undefined
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+[Parent 27700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 27700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24852, Chrome_ChildThread] WARNING: pipe e[Child 18972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18972, Chrome_C[Parent 27700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14672, Chrome_Chil[GPU 2756, Chrome_ChildThread] 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 58: SecurityError: Permission denied to access property "addEventListener" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 58: SecurityError: Permission denied to access property "addEventListener" on cross-origin object
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://c.go-mpulse.net/boomerang/2FBN2-NKMGU-EJKY8-ZANKZ-SUJZF, line 16: SecurityError: Permission denied to access property "BOOMR_configt" on cross-origin object
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 58: SecurityError: Permission denied to access property "addEventListener" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 58: SecurityError: Permission denied to access property "addEventListener" on cross-origin object
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 26: ReferenceError: OAS_RICH is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript error: https://8296686.fls.doubleclick.net/activityi;src=8296686;type=sciecema;cat=scien003;ord=715429827582;gtm=d6c;~oref=http%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F311%2F5767%2F1576?, line 44: SyntaxError: missing ) in parenthetical
+JavaScript error: https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2, line 2: TypeError: a is undefined
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://sdfestaticassets-us-west-2.sciencedirectassets.com/prod/90fe02cd952c9832a9041f3c2afe3267bafebbb5/arp.js, line 50: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002404D5C5800)::ForceLoseContext
+JavaScript warning: https://sdfestaticassets-us-west-2.sciencedirectassets.com/prod/90fe02cd952c9832a9041f3c2afe3267bafebbb5/arp.js, line 50: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002404D5C7000)::ForceLoseContext
+JavaScript warning: https://sdfestaticassets-us-west-2.sciencedirectassets.com/prod/90fe02cd952c9832a9041f3c2afe3267bafebbb5/arp.js, line 50: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002404D5D1000)::ForceLoseContext
+[Child 15880, Chrome_ChildThread] WARNING: pipe error:
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15880, Chrome_ChildThread] WARNING: pipe error: 1[Child 12452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12452, Chrome_[Child 28296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 24728, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+40188180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+1530640483851	geckodriver	INFO	geckodriver 0.21.0
+1530640483851	geckodriver	INFO	Listening on 127.0.0.1:55136
+1530640486929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.n2TqZydirL62"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530640489478	Marionette	INFO	Listening on port 55144
+1530640489733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530640778091	geckodriver	INFO	geckodriver 0.21.0
+1530640778106	geckodriver	INFO	Listening on 127.0.0.1:55908
+1530640781184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.4Mc2JI1y5TQP"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530640783779	Marionette	INFO	Listening on port 55922
+1530640783982	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27156, Ch[Parent 14712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16948, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530641261170	geckodriver	INFO	geckodriver 0.21.0
+1530641261177	geckodriver	INFO	Listening on 127.0.0.1:57408
+1530641264242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.dmuovxRmEXk9"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530641266896	Marionette	INFO	Listening on port 57422
+1530641266974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: http://journals.sagepub.com/wro/ey3d~product.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: https://c.go-mpulse.net/boomerang/2FBN2-NKMGU-EJKY8-ZANKZ-SUJZF, line 11: Error: Permission denied to access property Symbol.toPrimitive
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://www.sciencedirect.com/science/article/pii/S0140673605786864?via%3Dihub, line 114: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=MML_SVG, line 19: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://sdfestaticassets-us-west-2.sciencedirectassets.com/shared-assets/13/js/react-dom/16.3.2/react-dom.production.min.js, line 82: Error: Minified React error #185; visit http://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/scripts/satellite-5b3b560664746d57b70018c6.js, line 2: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 1: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 26: ReferenceError: OAS_RICH is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript error: https://8296686.fls.doubleclick.net/activityi;src=8296686;type=sciecema;cat=scien003;ord=8254401300512;gtm=d6c;~oref=http%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F311%2F5767%2F1576?, line 44: SyntaxError: missing ) in parenthetical
+JavaScript error: https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2, line 2: TypeError: a is undefined
+1530641641915	geckodriver	INFO	geckodriver 0.21.0
+1530641641922	geckodriver	INFO	Listening on 127.0.0.1:59148
+1530641644935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.UzEaf5mgVq3g"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530641647099	Marionette	INFO	Listening on port 59163
+1530641647179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript warning: http://journals.sagepub.com/wro/ey3d~product.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 26460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 26460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[ChildChild 123 2332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12332, Chrome_ChildThr[Parent 26460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26732, Chrome_Chi[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530644354560	geckodriver	INFO	geckodriver 0.21.0
+1530644354560	geckodriver	INFO	Listening on 127.0.0.1:63085
+1530644357638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.vXwkKRDLWbzf"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530644360191	Marionette	INFO	Listening on port 63098
+1530644360417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://journals.sagepub.com/wro/ey3d~product.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://sdfestaticassets-us-west-2.sciencedirectassets.com/shared-assets/10/js/babel-polyfill/6.26.0/babel-polyfill.min.js, line 1: Error: Permission denied to access property "name"
+JavaScript error: https://c.go-mpulse.net/boomerang/2FBN2-NKMGU-EJKY8-ZANKZ-SUJZF, line 11: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://www.sciencedirect.com/science/article/pii/S0140673605786864?via%3Dihub, line 114: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=MML_SVG, line 19: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://sdfestaticassets-us-west-2.sciencedirectassets.com/shared-assets/13/js/react-dom/16.3.2/react-dom.production.min.js, line 82: Error: Minified React error #185; visit http://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 1: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: , line 0: Error: Permission denied to access object
+JavaScript error: https://c.go-mpulse.net/boomerang/2FBN2-NKMGU-EJKY8-ZANKZ-SUJZF, line 16: Error: Permission denied to access property "length"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+1530644601240	geckodriver	INFO	geckodriver 0.21.0
+1530644601255	geckodriver	INFO	Listening on 127.0.0.1:64351
+1530644604327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.awOWrRH7BMbX"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530644606871	Marionette	INFO	Listening on port 64364
+1530644607081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: http://journals.sagepub.com/wro/ey3d~product.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com/content-targeting-v2.js, line 242: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript error: https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2, line 2: TypeError: a is undefined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 26: ReferenceError: OAS_RICH is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+[Parent 5780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28912, C[Parent 5780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12420, Chrome_[Parent 5780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+er/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+1530645288608	geckodriver	INFO	geckodriver 0.21.0
+1530645288608	geckodriver	INFO	Listening on 127.0.0.1:50754
+1530645291645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.kfK3kTvwJ43t"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.Unable to read VvrpaR Path Regith
+stry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530645294209	Marionette	INFO	Listening on port 50768
+1530645294434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+1530645602891	geckodriver	INFO	geckodriver 0.21.0
+1530645602907	geckodriver	INFO	Listening on 127.0.0.1:51905
+1530645605955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.2t7SMW8dUI3a"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530645608652	Marionette	INFO	Listening on port 51919
+1530645608719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript warning: http://journals.sagepub.com/wro/ey3d~product.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+1530645855969	geckodriver	INFO	geckodriver 0.21.0
+1530645855969	geckodriver	INFO	Listening on 127.0.0.1:53103
+1530645859012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.JjY1EET7DxVp"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR PaUnableth Registry from  toC:\Users\WJang\AppData\ read VR PaLocal\openvth Registr\openvrry frompaths.vrpath
+ C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530645861677	Marionette	INFO	Listening on port 53118
+1530645861776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://journals.sagepub.com/wro/ey3d~product.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 26: ReferenceError: OAS_RICH is not defined
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript error: https://8296686.fls.doubleclick.net/activityi;src=8296686;type=sciecema;cat=scien003;ord=1833989820491;gtm=d6c;~oref=http%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F311%2F5767%2F1576?, line 44: SyntaxError: missing ) in parenthetical
+JavaScript error: https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2, line 2: TypeError: a is undefined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+[Parent 24772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1708, Chrom[Parent 24772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29372, Chrome_ChildThr[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530646403878	Marionette	INFO	Listening on port 59619
+1530646404314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://journals.sagepub.com/wro/ey3d~product.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 26: ReferenceError: OAS_RICH is not defined
+JavaScript error: http://hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com/content-targeting-v2.js, line 242: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript error: https://8296686.fls.doubleclick.net/activityi;src=8296686;type=sciecema;cat=scien003;ord=1580313714940;gtm=d6c;~oref=http%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F311%2F5767%2F1576?, line 44: SyntaxError: missing ) in parenthetical
+JavaScript error: https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2, line 2: TypeError: a is undefined
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+[Parent 16592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13984, Chrome_Chi[Parent 16592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16936, Chro[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530651148216	geckodriver	INFO	geckodriver 0.21.0
+1530651148223	geckodriver	INFO	Listening on 127.0.0.1:59477
+1530651151259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.CP6PnUXsLL5Q"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530651153797	Marionette	INFO	Listening on port 59491
+1530651153984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://journals.sagepub.com/wro/ey3d~product.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript warning: http://journals.sagepub.com/doi/10.1177/104063879600800414, line 176: unreachable code after return statement
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 26: ReferenceError: OAS_RICH is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript error: https://8296686.fls.doubleclick.net/activityi;src=8296686;type=sciecema;cat=scien003;ord=280768993801;gtm=d6c;~oref=http%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F311%2F5767%2F1576?, line 44: SyntaxError: missing ) in parenthetical
+JavaScript error: https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2, line 2: TypeError: a is undefined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+[Parent 30336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22184, Chrome_ChildThread] WARNING: pi[Child 29644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29644, Chrome[Parent 30336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22836, C[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530923462074	geckodriver	INFO	geckodriver 0.21.0
+1530923462082	geckodriver	INFO	Listening on 127.0.0.1:65505
+1530923465137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.dupFUlCuRqek"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1530923469427	Marionette	INFO	Listening on port 65515
+1530923469527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://journals.sagepub.com/wro/f1fi~product.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 26: ReferenceError: OAS_RICH is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 68: unreachable code after return statement
+JavaScript error: https://8296686.fls.doubleclick.net/activityi;src=8296686;type=sciecema;cat=scien003;ord=5571479367159;gtm=d6c;~oref=http%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F311%2F5767%2F1576?, line 44: SyntaxError: missing ) in parenthetical
+JavaScript error: https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2, line 2: TypeError: a is undefined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+[Parent 7856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 32500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 32500, Chrome_Chil[Parent 7856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23908, Chro[GPU 31036, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531343609191	geckodriver	INFO	geckodriver 0.21.0
+1531343609201	geckodriver	INFO	Listening on 127.0.0.1:58454
+1531343612264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WJang\\AppData\\Local\\Temp\\rust_mozprofile.72dTdPyRGo1O"
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\WJang\AppData\Local\openvr\openvrpaths.vrpath
+1531343615404	Marionette	INFO	Listening on port 58470
+1531343615630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 58: SecurityError: Permission denied to access property "addEventListener" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript warning: http://journals.sagepub.com/wro/f1fi~product.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: http://cmr.asm.org/publisher/js/ads-realmedia.js, line 26: ReferenceError: OAS_RICH is not defined
+JavaScript error: http://hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com/content-targeting-v2.js, line 242: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8296686, line 69: unreachable code after return statement
+JavaScript error: https://8296686.fls.doubleclick.net/activityi;src=8296686;type=sciecema;cat=scien003;ord=935360737055;gtm=d6t;~oref=http%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F311%2F5767%2F1576?, line 44: SyntaxError: missing ) in parenthetical
+JavaScript error: https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2, line 2: TypeError: a is undefined
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 69: TypeError: o.contentWindow is null
+JavaScript error: http://jcm.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 58: SecurityError: Permission denied to access property "addEventListener" on cross-origin object
+JavaScript error: https://w.usabilla.com/eb1c14a91932.js?lv=1, line 31: SecurityError: Permission denied to access property "optimizely" on cross-origin object
+JavaScript error: http://jvi.asm.org/publisher/js/ads-realmedia.js, line 21: ReferenceError: OAS_sitepage is not defined
+[Parent 2636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13328, Chrome_ChildThr[Parent 2636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8940, Ch[GPU 752
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
