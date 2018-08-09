@@ -13,18 +13,18 @@ from twisted.internet.error import ConnectionLost
 from selenium.webdriver.support.ui import WebDriverWait
 
 
+import constants
 
 # replace the code below with the pathway to the infections folder
-dir = r"C:\Users\WJang\Desktop\Gemina_Project_Pathogens\Gemina_Project_Pathogens\infections"
-newdir = os.path.join(dir, r'infections_new')
+
 d = {}
 a = []
 d2 = {}
 def generatePathogenDictionary():
 	# generate the map that will tell the spider where to put the DOI files.
 	global d
-	for file in os.listdir(newdir):
-		f = os.path.join(newdir, file)
+	for file in os.listdir(constants.newdir):
+		f = os.path.join(constants.newdir, file)
 		fileName = os.path.join(f, "pubmedAbstract.txt")
 		if not f.endswith('.csv'):
 			if os.path.isfile(fileName):
@@ -39,16 +39,7 @@ def generatePathogenDictionary():
 
 def checkReference(s, filename):
 	# used to find all instances of a given reference in a PMID or DOI file
-	s = s.replace('\n', ' ')
-	s = s.replace('\t', ' ')
-	s = s.replace('.', ' ')
-	s = s.replace(',', ' ')
-	s = s.replace(';', '')
-	s = s.replace(':', '')
-	s = s.replace('\n', ' ')
-	s = s.replace('\t', ' ')
-	s = s.replace('.', '')
-	s = s.replace('-', ' ')
+	s = s.replace('\n', ' ').replace('\t', ' ').replace('.', ' ').replace(',', ' ').replace(';', '').replace(':', '').replace('\n', ' ').replace('\t', ' ').replace('.', '').replace('-', ' ')
 	filename = ' '.join((filename.split(' ')))
 	reference = 0
 	a = s.split(" ")
@@ -69,8 +60,8 @@ def checkReference(s, filename):
 def getURLList():
 	# generate the list of URLS to be crawled by the spider
 	urlList = []
-	for file in os.listdir(newdir):
-		f = os.path.join(newdir, file)
+	for file in os.listdir(constants.newdir):
+		f = os.path.join(constants.newdir, file)
 		fileName = os.path.join(f, "pubmedAbstract.txt")
 		if os.path.isfile(fileName):
 			PMIDfile = open(fileName, 'r')
@@ -190,7 +181,7 @@ class InitialSpider(scrapy.Spider):
 					f.write(cleantext)
 				f.close()
 			self.log('Saved file: ' + filename)
-			s = path[len(newdir) + 1:]
+			s = path[len(constants.newdir) + 1:]
 			s = s.replace('_', ' ')
 			s = s.replace(';', ':')
 			s = s.replace('!', '?')
